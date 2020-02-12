@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: AuditCase Designer plugin
+Bundle-SymbolicName: nl.c2c.ac.xsp.designer;singleton:=true
+Bundle-Version: 12.6.0.qualifier
+Bundle-Vendor: Changetocomm
+Require-Bundle: com.ibm.xsp.core
+Bundle-ClassPath: .
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Export-Package: nl.c2c.ac.xsp

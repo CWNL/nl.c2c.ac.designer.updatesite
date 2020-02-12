@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="nl.c2c.ac.xsp.designer"
+      label="AuditCase Designer plugin"
+      version="1.0.0.qualifier"
+      provider-name="Changetocomm">
+
+   <description url="https://www.auditcase.nl">
+      AuditCase for Designer 11.0
+   </description>
+
+   <copyright url="https://www.auditcase.nl">
+      AuditCase for Designer 11.0
+   </copyright>
+
+   <license url="https://www.auditcase.nl">
+      AuditCase for Designer 11.0
+   </license>
+
+   <plugin
+         id="nl.c2c.ac.xsp.designer"
+         download-size="0"
+         install-size="0"
+         version="12.6.0.qualifier"
+         unpack="false"/>
+
+</feature>

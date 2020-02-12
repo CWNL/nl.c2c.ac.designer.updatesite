@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/nl.c2c.ac.xsp.designer_1.0.0.202002121419.jar" id="nl.c2c.ac.xsp.designer" version="1.0.0.202002121419">
+      <category name="AuditCase for Designer"/>
+   </feature>
+   <category-def name="AuditCase for Designer" label="AuditCase for Designer"/>
+</site>
